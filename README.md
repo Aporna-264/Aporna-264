@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aporna-264" alt="aporna-264" /></a> </p>
 
-- 🌱 I’m currently learning **C amd C++**
+- 🌱 I’m currently learning **C and C++**
 
 - 💬 Ask me about **anything related with C/C++**
 
