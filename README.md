@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **anything related with C/C++**
 
-- 📫 How to reach me **fine my email**
+- 📫 How to reach me **find my email**
 
 - ⚡ Fun fact **don't look back otherwise you'll lough**
 
