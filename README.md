@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Aporna</h1>
+<h1 align="center">let's see /h1>
 <h3 align="center">A person who like to learn more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aporna-264&label=Profile%20views&color=0e75b6&style=flat" alt="aporna-264" /> </p>
