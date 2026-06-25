@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aporna-264&show_icons=true&locale=en&layout=compact" alt="aporna-264" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aporna-264&label=Profile%20views&color=0e75b6&style=flat" alt="aporna-264" /> </p>
 
 
 
