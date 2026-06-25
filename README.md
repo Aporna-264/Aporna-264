@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aporna-264" alt="aporna-264" /></a> </p>
 
 
-- <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aporna-264&label=Profile%20views&color=0e75b6&style=flat" alt="aporna-264" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aporna-264" alt="aporna-264" /></a> </p>
