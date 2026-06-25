@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **find my email**
 
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://codeforces.com/profile/aporna_264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aporna_264" height="30" width="40" /></a>
 </p>
