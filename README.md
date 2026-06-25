@@ -2,7 +2,7 @@
  <h1 align="center">  I'm Aporna</h1>
 <h3 align="center">A person who like to learn more</h3>
 
-**Aporna-264/Aporna-264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aporna-264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -24,17 +24,16 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **my own project**
 
-- 🌱 I’m currently learning **C and C++**
+- 🌱 I’m currently learning **C,C++,JAVA and  Python**
 
 - 🤝 I’m looking for help with **programming**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **anything related with C/C++**
+- 💬 Ask me about **anything related with C, C++, JAVA, and Python**
 
 - 📫 How to reach me **find my email**
 
-- ⚡ Fun fact **don't look back otherwise you'll lough**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,11 +64,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aporna-264" alt="aporna-264" /></a> </p>
 
-- 🌱 I’m currently learning **C and C++**
-
-- 💬 Ask me about **anything related with C/C++**
-
-- ⚡ Fun fact **Don't need to know about me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -83,7 +77,6 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aporna-264&label=Profile%20views&color=0e75b6&style=flat" alt="aporna-264" /> </p>
 
