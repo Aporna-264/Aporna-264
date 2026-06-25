@@ -19,17 +19,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aporna-264" alt="aporna-264" /></a> </p>
 
-- 🔭 I’m currently working on **my own project**
+- All of my projects are available at [github](github)
 
-- 🌱 I’m currently learning **C,C++,JAVA and  Python**
+- Ask me about **anything related with C, C++, JAVA, and Python**
 
-- 🤝 I’m looking for help with **programming**
-
-- 👨‍💻 All of my projects are available at [github](github)
-
-- 💬 Ask me about **anything related with C, C++, JAVA, and Python**
-
-- 📫 How to reach me **find my email**
+-  How to reach me **bhoumickaporna@gmail.com**
 
 
 
